@@ -1,0 +1,1 @@
+{"lakshitha/gmailConnector:0.1.0:CalService" : [{"function":{"name":"getUserProfile","requiredParams":[],"returnType":"json"}},{"function":{"name":"getLabelList","requiredParams":[],"returnType":"json"}}]}
